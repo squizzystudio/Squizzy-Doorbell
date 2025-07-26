@@ -8,7 +8,7 @@ Ein einfaches FiveM-Script für ein Klingelsystem mit visuellen Effekten, Sound 
 - Interaktiver Text über dem Ped ("Drücke E um das Einreise Team zu kontaktieren")
 - Visueller Sound-Effekt beim Klingeln
 - Erfolgsbenachrichtigung für den Spieler
-- Discord-Webhook mit Rolle-Ping (@Homestoryteam)
+- Discord-Webhook mit Rolle-Ping (@beispiel)
 - 5-Minuten-Cooldown zwischen Nutzungen
 - Vollständig konfigurierbar über config.lua
 
